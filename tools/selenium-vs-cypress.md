@@ -209,4 +209,4 @@ Manual testers who start learning automation can begin with Cypress for its simp
 
 - [Selenium Official Documentation](https://www.selenium.dev/documentation/)
 - [Cypress Official Documentation](https://docs.cypress.io/)
-- [Cypress vs Selenium Guide - ToolsQA](https://www.toolsqa.com/cypress-vs-selenium/)
+
