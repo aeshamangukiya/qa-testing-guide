@@ -98,7 +98,7 @@ public void loginTest() {
     Assert.assertEquals(actualTitle, "Dashboard");
     driver.quit();
 }
-
+```
 ---
 
 ## Manual vs Automation Testing
@@ -184,3 +184,4 @@ You can run all these tests automatically in a **few hours**, ensuring quick fee
 * Automation ensures faster delivery, higher accuracy, and consistent testing across versions.
 
 > “Manual testing finds new bugs; automation ensures they never return.”
+
