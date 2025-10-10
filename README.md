@@ -1,16 +1,13 @@
 # QA Testing Guide
-### *Comprehensive QA Learning & Portfolio Resource*
+### *A One-Stop Resource for Building Your QA Skills and Portfolio*
 
 ---
 
 ## Overview
 
-This repository is a **complete QA Testing Guide** for beginners and experienced testers. It includes theory, practical examples, automation samples, API testing, SQL, Agile concepts, and hands-on projects. This project is designed to:
+A comprehensive open-source guide for both beginner and experienced QA professionals. This repository covers the theory, tools, best practices, hands-on exercises, and real-world examples in **manual testing**, **automation testing**, **API testing**, **SQL**, and **non-functional testing**.
 
-- Teach QA concepts clearly with **real-life examples**
-- Provide **ready-to-run test scripts**
-- Serve as a **portfolio for recruiters**
-- Allow growth by adding more advanced topics over time
+The guide is designed to help QA testers learn and demonstrate end-to-end testing capabilities, from creating test plans to implementing automation scripts and API testing. It also provides practical samples and reusable templates that you can showcase in your portfolio.
 
 ---
 
@@ -28,7 +25,18 @@ This repository is a **complete QA Testing Guide** for beginners and experienced
 | Hands-on Projects | Manual, Automation, API, SQL sample projects | [Manual Project](hands-on-projects/manual-testing-sample/login-test-cases.md) |
 
 ---
+## Introduction
 
+The QA Testing Guide serves as a *learning hub* and *portfolio showcase* for anyone interested in building or improving their QA testing skills. Whether you're just starting out or already experienced, this repository will guide you through the key concepts of software testing, from the basics to advanced testing techniques.
+
+This guide includes:
+- **Theory**: SDLC, types of testing, test levels, testing strategies
+- **Hands-on Examples**: Automation scripts, API testing examples, and SQL queries
+- **Tools**: Popular QA tools like Selenium, Cypress, Postman, Jira, and TestRail
+- **Templates**: Test case templates, bug lifecycle diagrams, RTM, test plans, etc.
+
+## Modules
+  
 ## Foundations
 
 Covers QA basics and core concepts:
