@@ -1,6 +1,10 @@
 # QA Testing Guide
 ### *A One-Stop Resource for Building Your QA Skills and Portfolio*
 
+Want to explore more about QA Testing, Manual Testing, Automation, API Testing, and real-world projects?
+I’ve created a dedicated YouTube series covering QA concepts, tools, frameworks, and hands-on tutorials.
+
+YouTube Channel: https://www.youtube.com/@QAMap
 ---
 
 ## Overview
